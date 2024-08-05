@@ -1,0 +1,39 @@
+#title {
+    text-align: center;
+    font-family: copperplate;
+    font-size: 5em;
+    margin-top: 1rem;
+}
+
+#container {
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+.piko-card {
+    padding: 1em;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+    background-color: #fff;
+}
+
+.piko-img {
+    width: 100%;
+    border-radius: 1em;
+}
+
+.piko-info {
+    padding: 1.25rem;
+}
+
+.info-text {
+    font-family: monospace;
+    font-size: 1rem;
+}
+
+.piko-name {
+    font-family: "copperplate", fantasy;
+    font-size: 1.5em;
+    margin-top: 0.5em;
+}
